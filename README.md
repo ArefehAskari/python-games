@@ -18,3 +18,4 @@ Make sure Python is installed, then run a game from your terminal:
 
 ```bash
 python rock_paper_scissors.py
+```
