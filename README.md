@@ -1,21 +1,39 @@
-# Python Games 🎮
+<div align="center">
 
-A collection of games built with Python as I learn and practice programming.
+# ✊ Rock Paper Scissors ✋
 
-## About 📖
+### A classic hand game, built with Python.
 
-This repository contains small Python games, from simple beginner projects to more advanced ideas. I will add new games as I learn new concepts and improve my programming skills.
+A simple command-line game where you play against the computer.
+Choose your move, test your luck, and see who wins!
 
-## Games 🕹️
+</div>
 
-| Game | Description |
-|---|---|
-| [Rock Paper Scissors](./rock_paper_scissors.py) | A classic game played against the computer. |
+---
 
-## How to Run ▶️
+## 🎮 About
 
-Make sure Python is installed, then run a game from your terminal:
+**Rock Paper Scissors** is a classic game brought to the terminal with Python.  
+This project is a small, beginner-friendly way to practice Python fundamentals while having fun.
 
+## ✨ Features
+
+| Feature | Description |
+|:--|:--|
+| 🧑‍💻 Player vs. Computer | Play against a computer opponent |
+| 🎲 Randomized moves | The computer picks its move at random |
+| ⚖️ Classic rules | Rock beats scissors, scissors beat paper, and paper beats rock |
+| 🔁 Replayable | Play another round whenever you like |
+| 🐍 Python-powered | Built with Python |
+
+## 📋 Requirements
+
+- Python 3.8 or newer
+- A terminal or command prompt
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
 ```bash
-python rock_paper_scissors.py
-```
+git clone https://github.com/ArefehAskari/rock-paper-scissors-python.git
+cd rock-paper-scissors-python
