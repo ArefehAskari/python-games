@@ -33,7 +33,7 @@ while count_computer != 5 and count_user != 5:
         print('You score a point!')
         count_user += 1
     print(f"Score — You: {count_user} | Computer: {count_computer}")
-if count_computer >=5:
+if count_computer >= 5:
     print('computer win!')
 else:
     print('user win')
